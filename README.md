@@ -1,7 +1,7 @@
 # Stock-Sentiment-Analyzer
-###A simple stock sentiment analyzer based on scrappig data online
+### A simple stock sentiment analyzer based on scrappig data online
 
-##Package Required-
+## Package Required-
 - [x] *BS4*
 - [x] *ntlk sentiment vader*
 - [x] *pandas*
